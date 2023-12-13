@@ -1,4 +1,4 @@
-# Performance-of-a-mixed-Lagrange-time-delay-estimation-autoregressive
+# Performance of a mixed Lagrange time delay estimation autoregressive (MLTDEAR) model for single-image signal- to-noise ratio estimation in scanning electron microscopy
 
 Performance of a mixed Lagrange time delay estimation autoregressive (MLTDEAR) model for single-image signal- to-noise ratio estimation in scanning electron microscopy
 
